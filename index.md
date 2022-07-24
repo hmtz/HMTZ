@@ -14,9 +14,9 @@ About
 
 <img src="weibo.png" width="20" height="20"> **新浪微博**    [@weibo](https://weibo.com/)
 
-<img src="bilibili.png" width="20" height="20"> **哔哩哔哩**    [@哔哩哔哩](https://bilibili.com/)
+<img src="bilibili.png" width="20" height="20"> **哔哩哔哩**    [@bilibili](https://bilibili.com/)
 
-<img src="网易云音乐.png" width="20" height="20"> **网易云音乐**  [@云音乐](https://music.163.com/#/song?id=427606780)
+<img src="网易云音乐.png" width="20" height="20"> **网易云音乐**  [@music.163](https://music.163.com/#/song?id=427606780)
 
 ### 国外访贴：
 
