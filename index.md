@@ -1,6 +1,6 @@
 # Welcome
 
-**动漫君欢迎您 ！！！**  <img align="right" src="529710224727080979.gif"/>
+**HMTZCC ！！！**  <img align="right" src="529710224727080979.gif"/>
 
 About
 -
@@ -12,9 +12,9 @@ About
 
 ### 国内访贴：
 
-<img src="weibo.png" width="20" height="20"> **新浪微博**    [@动漫风信子](https://weibo.com/3991135975)
+<img src="weibo.png" width="20" height="20"> **新浪微博**    [@weibo](https://weibo.com/)
 
-<img src="bilibili.png" width="20" height="20"> **哔哩哔哩**    [@花猫探长](https://space.bilibili.com/47764900)
+<img src="bilibili.png" width="20" height="20"> **哔哩哔哩**    [@bilibili](https://space.bilibili.com/)
 
 <img src="网易云音乐.png" width="20" height="20"> **网易云音乐**  [@动漫风信子](https://music.163.com/#/user/home?id=406836144)
 
@@ -35,15 +35,15 @@ About
 
 <img src="github.png" width="20" height="20"> **Github**  [Github](https://github.com/login)
 
-\由于博主知识有限 还要学习更多的知识和代码源/
+  \由于知识有限 还要学习更多的知识和代码源/
 
                 =本网页为Deom版=                
 
 /后续会有更多的丰富内容 敬请期待 感谢您的观看\
 
-<a href="https://https://dongmanjun.github.io/"><img src="太空.png" width="200" height="150"></a>
+<a href="https://https://HMTZ.github.io/"><img src="太空.png" width="200" height="150"></a>
 
 
 ### Thank you for looking.
 
-# ©动漫君
+# ©HMTZCC
