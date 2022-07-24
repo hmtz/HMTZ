@@ -4,7 +4,7 @@
 
 About
 -
-#### 名字:**动漫君**
+#### 名字:**HMTZ**
 ###  来自:<img src="China.png" width="20" height="20"> 
 
 ###  喜欢:<img src="招财猫.png" width="20" height="20"> 
