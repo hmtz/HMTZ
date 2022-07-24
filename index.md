@@ -41,7 +41,7 @@ About
 
 /后续会有更多的丰富内容 敬请期待 感谢您的观看\
 
-<a href="https://https://HMTZ.github.io/"><img src="太空.png" width="200" height="150"></a>
+<a href="https://hmtz.github.io/HMTZ/"><img src="太空.png" width="200" height="150"></a>
 
 
 ### Thank you for looking.
