@@ -16,7 +16,7 @@ About
 
 <img src="bilibili.png" width="20" height="20"> **哔哩哔哩**    [@bilibili](https://space.bilibili.com/)
 
-<img src="网易云音乐.png" width="20" height="20"> **网易云音乐**  [@动漫风信子](https://music.163.com/#/user/home?id=406836144)
+<img src="网易云音乐.png" width="20" height="20"> **网易云音乐**  [@云音乐](https://music.163.com/#/song?id=427606780)
 
 ### 国外访贴：
 
